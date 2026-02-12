@@ -1,6 +1,6 @@
 <H3>Name Clarissa K</H3>
-<H3>Register no.212224230047</H3>
-<H3>Date13/02/2026</H3>
+<H3>Register no:212224230047</H3>
+<H3>Date:13/02/2026</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
